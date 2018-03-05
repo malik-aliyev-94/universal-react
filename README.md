@@ -1,9 +1,27 @@
+# Universal React Application
+Great thanks to [Luciano Mammino](https://scotch.io/@loige) for the tutorial
+[React on the Server for Beginners: Build a Universal React and Node App](https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app)
+
+GitHub repository of this tutorial is available from this link [judo-heroes-2](https://github.com/lmammino/judo-heroes-2)
+
+## What is universal JS ?
+This is JavaScript which renders the same HTML whether on the server or on the client :)
+
+### [Advantages](https://medium.com/commencis/isomorphic-universal-javascript-496dc8c4341a)
+- Better performance
+- Full SEO support
+- Flexibility of client-side
+- Maintenance
+- Old device support
+- Poor connections
+- Better user experience
+
 ## Setup
 
 ```bash
-git clone ...
-cd dir
-yarn # or `npm i` if not using yarn
+git clone https://github.com/malik-aliyev-94/universal-react.git
+cd universal-react
+yarn # or `npm i` if you are not using yarn
 ```
 
 ## Available commands
